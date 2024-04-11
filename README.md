@@ -6,9 +6,8 @@ Contém o projeto e desenvolvimento de um sistema de gestão de condominios desd
 Apresentados no PDF Trabalho_Final_MAG_1
 
 # Diagrama de Classes com atributos associados
--- Em breve
+Apresentados no PDF Trabalho_Final_MAG_2
+
 # Diagrama de Sequência
--- Em breve
-# Estrutura BD
--- Em breve
+Apresentados no PDF Trabalho_Final_MAG_2
 
